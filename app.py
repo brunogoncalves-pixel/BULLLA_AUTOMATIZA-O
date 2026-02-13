@@ -14,7 +14,7 @@ uploaded_file = st.file_uploader("Envie o arquivo .txt", type=["txt"])
 if uploaded_file:
 
     # ==========================
-    # LER ARQUIVO
+    # LER ARQUIV
     # ==========================
 
     conteudo = uploaded_file.read()
